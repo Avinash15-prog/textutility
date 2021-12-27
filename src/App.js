@@ -59,7 +59,7 @@ function App() {
           </Routes>
         </div>
       </Router> */}
-      <Navbar title="Tefficacy" mode={mode} toggleMode={toggleMode} />
+      <Navbar title="Tefficacy 📝" mode={mode} toggleMode={toggleMode} />
         <Alert alert={alert} />
       <div className="container my-3">
         <TextForm
